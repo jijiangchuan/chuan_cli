@@ -20,6 +20,8 @@ npx fanchen_cli init <project_name>
 
 <img src="./assets/succeed.png">
 
+
+
 ## Setup
 
 安装起步依赖
