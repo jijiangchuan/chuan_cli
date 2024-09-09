@@ -18,6 +18,7 @@ npx fanchen_cli init <project_name>
 
 ``🚀🚀🚀恭喜创建成功``
 
+
 <img src="./assets/succeed.png">
 
 
